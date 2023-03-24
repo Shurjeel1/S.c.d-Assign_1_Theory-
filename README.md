@@ -1,4 +1,7 @@
 # S.c.d-Assign_1_Theory-
+
+To check git bash command open another file
+
 here's a step-by-step guide to following the instructions you provided:
 
 To create a GitHub account, go to github.com in your web browser. Click on the "Sign up" button in the top right corner of the screen, and follow the prompts to create a free account. Once you have created an account, sign into your account.
